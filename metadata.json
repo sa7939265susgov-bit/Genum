@@ -1,0 +1,6 @@
+{
+  "name": "Call Number Generator",
+  "description": "Carrier-specific number generator for Bahrain (Batelco, stc, Zain) and worldwide countries, with custom audio caller voice, world time clock, and 5-second ring delivery auto-end.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

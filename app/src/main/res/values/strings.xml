@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Call Number Generator</string>
+    <string name="tab_generator">Generator</string>
+    <string name="tab_call_sim">Call &amp; Delivery</string>
+    <string name="tab_world_time">World Times</string>
+    <string name="tab_history">History</string>
+    
+    <string name="title_generator">Phone Number Generator</string>
+    <string name="subtitle_generator">Bahrain Carriers (Batelco, STC, Zain) &amp; Global Networks</string>
+    <string name="btn_generate">Generate Number</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_dial">Open Dialer</string>
+    <string name="btn_test_call">Call &amp; Hear Audio</string>
+    <string name="btn_five_sec_test">5s Ring Delivery Test</string>
+    <string name="recorded_audio_ready">Audio message attached</string>
+    <string name="no_audio_attached">No custom audio recorded yet</string>
+</resources>
